@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/chjNHqp.png" height="50%" width="50%" alt="Active Directory Users and Computers (ADUC) logo"/>
+<img src="https://i.imgur.com/LLk8I0Q.png" height="50%" width="50%" alt="Active Directory logo"/>
 </p>
 
 # Creating Users and Groups (Active Directory Users and Computers - ADUC)
